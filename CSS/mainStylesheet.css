@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#headerMainFRame{
+    width: 100%;
+    max-width: 1140px;
+    padding: 12px 80px;
+    margin-right: auto;
+    margin-bottom: 76px;
+}
+#headerLogo{
+    vertical-align: middle;
+    width: 150px;
+    height: 35px;
+}
+#headerContentFrame{
+    display: inline-block;
+    width: 343px;
+    text-align: center;
+    margin-left: 150px;
+    vertical-align: middle;
+}
+#product, #services, #resources{
+    display: inline-block;
+    font-size: 18px;
+    color: #323232;
+    font-weight: 400;
+    margin-right: 20px;
+}
+#offers{
+    display: inline-block;
+    font-size: 18px;
+    color: #323232;
+    font-weight: 400;
+}
+#contactUsFrame{
+    display: inline-block;
+    text-align: center;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    margin-left: 170px;
+}
+#contact{
+    color: #AC00FF;
+    font-size: 14px;
+    font-weight: 500;
+}
+#contentMainFrame{
+    display: inline-block;
+    margin-left: 200px;
+    text-align: left;
+    width: 100%;
+    max-width: 840px;
+}
+#headerFrame{
+    display: inline-block;
+    width: 100%;
+    max-width: 720px;
+}
+h1{
+    color: #323232;
+    font-size: 64px;
+    font-weight: bold;
+}
+#headerParagFrame{
+    display: inline-block;
+    width: 100%;
+    max-width: 850px;
+    margin: 24px 0px;
+}
+#headerParag{
+    font-size: 24px;
+    color: #323232;
+}
+#buttonsFrame{
+    display: inline-block;
+    width: 100%;
+    max-width: 425px;
+}
+#joinNowFrame{
+    display: inline-block;
+    text-align: center;
+    padding: 16px 24px;
+    margin-right: 12px;
+    border-radius: 8px;
+    width: 205px;
+    background: #5C3BAE;
+}
+#joinnow{
+    color: #FFF;
+    font-size: 18px;
+    display: inline-block;
+}
+#watchVideoFrame{
+    vertical-align: middle;
+    width: 194px;
+    display: inline-block;
+}
+#watchLogo{
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 8px;
+}
+#watch{
+    vertical-align: middle;
+    display: inline-block;
+    color: #4D3491;
+    font-size: 18px;
+    text-decoration-line: underline;
+}
+#cardsMainFRame{
+    text-align: right;
+    width: 100%;
+    max-width: 1285px;
+    margin-left: auto;
+    margin-top: -170px;
+}
+#cardImg{
+    width: 1000px;
+    height: 1000px;
+    margin-top: -180px;
+}
