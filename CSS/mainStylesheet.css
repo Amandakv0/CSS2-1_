@@ -45,6 +45,7 @@
     margin-left: 170px;
 }
 #contact{
+    text-decoration-line: none;
     color: #AC00FF;
     font-size: 14px;
     font-weight: 500;
@@ -82,6 +83,7 @@ h1{
     max-width: 425px;
 }
 #joinNowFrame{
+    border: none;
     display: inline-block;
     text-align: center;
     padding: 16px 24px;
@@ -91,11 +93,14 @@ h1{
     background: #5C3BAE;
 }
 #joinnow{
+    text-decoration-line: none;
     color: #FFF;
     font-size: 18px;
     display: inline-block;
 }
 #watchVideoFrame{
+    background-color: transparent;
+    border: none;
     vertical-align: middle;
     width: 194px;
     display: inline-block;
